@@ -69,7 +69,7 @@ NEXT_PUBLIC_HOST_NAME=http://localhost:3000
    ```
    Replace the placeholders with your actual credentials.
 4. **Set Up Environment Variables**: Create a `.env` file in the root directory and add the following:
-   ```bash
+ 
 
    Replace the placeholders with your actual credentials.
 5. **Run the Development Server**: Start the application in development mode:
