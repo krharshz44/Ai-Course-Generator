@@ -31,7 +31,7 @@ You can access the live application here.
 
 ### Backend:
 - Clerk for authentication and authorization
-- drizzle for postgreSQL
+- Drizzle for postgreSQL
 - Gemini API for natural language processing
 
 ### Other:
